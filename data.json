@@ -1,0 +1,14 @@
+{
+    "p1":{
+        "title" : "Ek Anmol Dost",
+        "poem" : "Keh do unhe jinhe humko rulana aata hai, Unhe jinhe dil tod ke pachhtana aata hai, Udaasi ko muskaan me tabdeel krte h jo, Hme unhe achhe se behlaana aata hai. Raat ki raani jinhe dekh ke sharma jaaye, Hmari darkhuast ke ba-vjood bhi jo hme tarsaye, Kya gunah hmara, hum unse hai puchte, Unse guftgoo krne ke vibhinn tareeke hai dhoondte, Aaj aaya voh din jb unka fir dedaar hua, Bhukamp, toofan, kayamat ka khaufnaak ehsaas hua. Mann krta hai ki iss bhawander se chhutkara paa len, Dil ko kisi aur ki yaad me sma len, Iss bimaari ka koi vaid nhi unke siva, Aakhir-kaar hmara hai hi kon unke siva, Aakhir-kaar hmara hai hi kon unke siva.",
+        "author" : "Sahil Ahuja",
+        "path" : "../static/images/dost.jpg"
+    },
+    "p2":{
+        "title" : "Aankhen Band Toh Kro",
+        "poem" : "Aankhen band toh kro, tumhe kisike milana hai, Aankhen band toh kro, tumhe kahin door lekr jaana hai,Aankhen band toh kro, tumhe agr muskurana hai, Aankhen band toh kro, tumhe tumse milana hai, Aankhen band toh kro, tumhe jannat ka marg btana hai, Aankhen band toh kro, tumhe tumhari galtion ka ehsaas karwana hai, Aankhen band toh kro, tumhe sahi raha dikhana hai, Aankhen band toh kro, tumhe rabb se milana hai, Aankhen band toh kro, tumhe zindagi ka saar sikhana hai, Aankhen band toh kro, tumhe tumhari rooh se milana hai, Aankhen band toh kro, agr tum kr skte ho toh, Aankhen band toh kro, so jaao, agr so skte ho toh.",
+        "author" : "Sahil Ahuja",
+        "path" : "../static/images/eyes.jpeg"
+    }
+}
